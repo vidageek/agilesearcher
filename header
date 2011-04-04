@@ -8,3 +8,8 @@
 		<link rel="stylesheet" href="style.css" type="text/css" />
 	</head>
 	<body>
+	
+	<ul class="navigation">
+		<li><a href="" target="_blank"></li>
+	</ul>
+		
