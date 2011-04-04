@@ -42,3 +42,19 @@ ul.navigation li a:hover {
 div.footer {
 	text-align: center;
 }
+
+ul#faq {
+	color: #666;
+}
+
+ul#faq li {
+	display: block;	
+}
+
+ul#faq li h2 {
+	
+}
+
+ul#faq li h3 {
+	
+}
