@@ -1,12 +1,12 @@
 #! /bin/bash
 
-echo "Cleanning up"
+echo -e "\033[32;1mCleanning up"; tput sgr0
 rm -fvr output;
 mkdir -v output;
 
-echo "Generating site"
+echo -e "\033[32;1mGenerating site"; tput sgr0
 for X in `ls *.html`; do 
-	echo "Creating $X"
+	echo -e "Creating \033[34;1m$X"; tput sgr0
 	cat header > output/$X;
 	cat $X >> output/$X;
 	cat footer >> output/$X;
