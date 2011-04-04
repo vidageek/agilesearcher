@@ -9,6 +9,8 @@
 	</head>
 	<body>
 	
+	<div id="content">
+	
 	<h1><a href="http://agilesearcher.com">Agile Searcher</a></h1>
 	
 	<ul class="navigation">
@@ -17,5 +19,5 @@
 		<li><a href="/faq.html#submit">+ site</a></li>
 	</ul>
 	
-	<div id="content">
+	
 		

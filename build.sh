@@ -11,3 +11,9 @@ for X in `ls *.html`; do
 	cat $X >> output/$X;
 	cat footer >> output/$X;
 done; 
+
+echo -e "\033[32;1mCopying CSS"; tput sgr0
+for X in `ls *.css`; do 
+	echo -e "Copying \033[34;1m$X"; tput sgr0
+	cat $X >> output/$X;
+done; 

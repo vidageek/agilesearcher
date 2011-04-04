@@ -1,3 +1,25 @@
 div#content {
+	margin: auto;
+	width: 1000px;
+}
+
+h1 {
 	text-align: center;
+}
+
+h1 a {
+	font-size: 45px;
+    text-decoration: none;
+	color: #999;
+}
+
+ul.navigation {
+	background-color: #CCC;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+ul.navigation li {
+	display: inline;
 }
