@@ -9,7 +9,10 @@
 	</head>
 	<body>
 	
+	<h1><a href="http://agilesearcher.com">Agile Searcher</a></h1>
+	
 	<ul class="navigation">
-		<li><a href="" target="_blank"></li>
+		<li><a href="/">Search</a></li>
+		<li><a href="/faq.html">FAQ</a></li>
 	</ul>
 		
