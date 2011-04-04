@@ -5,5 +5,6 @@
 			Agile Searcher :  An Agile Development Search Engine
 		</title>
 		<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+		<link rel="stylesheet" href="style.css" type="text/css" />
 	</head>
 	<body>
