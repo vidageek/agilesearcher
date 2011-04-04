@@ -38,3 +38,7 @@ ul.navigation li a:hover {
     margin-left: 30px;
 	color: blue;
 }
+
+div.footer {
+	text-align: center;
+}
