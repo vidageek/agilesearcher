@@ -18,8 +18,23 @@ ul.navigation {
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
+	padding-top: 3px;
 }
 
 ul.navigation li {
 	display: inline;
+}
+
+ul.navigation li a {
+	text-decoration: none;
+	display: inline-block;
+    margin-left: 30px;
+	color: black;
+}
+
+ul.navigation li a:hover {
+	text-decoration: none;
+	display: inline-block;
+    margin-left: 30px;
+	color: blue;
 }
