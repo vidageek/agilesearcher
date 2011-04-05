@@ -60,3 +60,9 @@ ul#faq li h3 {
 	color: #888888;
 	font-size: 15px;
 }
+
+/*CSE */
+div#cse-search-form {
+	padding-left: 20px;
+	width: 800px;
+}
