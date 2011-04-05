@@ -61,6 +61,18 @@ ul#faq li h3 {
 	font-size: 15px;
 }
 
+/*Donation*/
+p.donation {
+	margin: auto;
+   	text-align: center;
+	width: 700px;
+}
+
+div.donation {
+	margin:  20px auto;
+    width: 100px;
+}
+
 /*CSE */
 div#cse-search-form {
 	padding-left: 20px;
